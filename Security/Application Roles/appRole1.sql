@@ -1,0 +1,3 @@
+﻿CREATE APPLICATION ROLE [appRole1]
+  WITH PASSWORD = 'passw0rd'
+GO
